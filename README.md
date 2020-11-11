@@ -18,7 +18,7 @@ Using the purchase_data, I was able to find the following items and throw them i
 
 ### Purchasing Analysis DataFrame
 
-![purchasing_analysis](Images/puchase_summary.png)
+![purchasing_analysis](Images/purchase_summary.png)
 
 ### Gender Demographics
 
